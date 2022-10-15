@@ -10,6 +10,14 @@
 
 <hr>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto: afarangurens@unal.edu.co" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="linkedin.com/in/andres-aranguren-silva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
+
+<hr>
+
 <h2 align="center"> My Github stats </h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=afarangurens&hide=prs&count_private=true&show_icons=true&theme=radical"> 
