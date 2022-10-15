@@ -9,4 +9,6 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afarangurens&langs_count=5&theme=radical">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afarangurens)](https://github.com/afarangurens/github-profile-trophy)
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afarangurens&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+</p> 
