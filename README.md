@@ -17,6 +17,10 @@
 	<img src="https://img.shields.io/badge/-ReactJS-f24187?style=flat-square&logo=react"/>
 	<img src="https://img.shields.io/badge/-Java-f24187?style=flat-square&logo=java"/>
 	<img src="https://img.shields.io/badge/-SpringBoot-f24187?style=flat-square&logo=springboot"/>
+	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+	<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+	<img src="https://img.shields.io/badge/-AWS-430098?style=flat-square&logo=aws"/>
 	<img src="https://img.shields.io/badge/-MongoDB-f24187?style=flat-square&logo=mongodb"/>
 	<img src="https://img.shields.io/badge/-MySQL-f24187?style=flat-square&logo=mysql"/>
 	<img src="https://img.shields.io/badge/-PostgreSQL-f24187?style=flat-square&logo=postgresql"/>
