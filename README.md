@@ -12,14 +12,14 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/-Python 3.10-F25199?style=flat-square&logo=python"/>
-	<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
-	<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-	<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-	<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-	<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-	<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
-	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-	<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+	<img src="https://img.shields.io/badge/-Django-F25199?style=flat-square&logo=django"/>
+	<img src="https://img.shields.io/badge/-JavaScript-F25199?style=flat-square&logo=javascript"/>
+	<img src="https://img.shields.io/badge/-React-F25199?style=flat-square&logo=react"/>
+	<img src="https://img.shields.io/badge/-MongoDB-F25199?style=flat-square&logo=mongodb"/>
+	<img src="https://img.shields.io/badge/-MySQL-F25199?style=flat-square&logo=mysql"/>
+	<img src="https://img.shields.io/badge/-PostgreSQL-F25199?style=flat-square&logo=postgresql"/>
+	<img src="https://img.shields.io/badge/-Git-F25199?style=flat-square&logo=git"/>
+	<img src="https://img.shields.io/badge/-GitHub-F25199?style=flat-square&logo=github"/>
 </p>
 
 <hr>
