@@ -24,7 +24,7 @@
 
 <hr>
 
-
+\usepackage{times}
 <h2 align="center"> $\color{#f24187}{My~Github~stats}$ </h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=afarangurens&hide=prs&count_private=true&show_icons=true&theme=radical"> 
