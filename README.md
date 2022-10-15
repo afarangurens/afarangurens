@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/-Python 3.10-EA2C74?style=flat-square&logo=python"/>
+	<img src="https://img.shields.io/badge/-Python 3.10-F25199?style=flat-square&logo=python"/>
 	<img src="https://img.shields.io/badge/-Django-F25199?style=flat-square&logo=django"/>
 	<img src="https://img.shields.io/badge/-JavaScript-F25199?style=flat-square&logo=javascript"/>
 	<img src="https://img.shields.io/badge/-React-F25199?style=flat-square&logo=react"/>
