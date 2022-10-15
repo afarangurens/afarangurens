@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto: afarangurens@unal.edu.co" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andres-aranguren-silva/" target="blank"><img align="center" src="https://img.shields.io/badge/-afarangurens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-aranguren-silva" alt="" height="30" width="200" /></a>
+<a href="https://www.linkedin.com/in/andres-aranguren-silva/" target="blank"><img align="center" src="https://img.shields.io/badge/-afarangurens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-aranguren-silva" alt="" height="30" width="150" /></a>
 </p>
 
 <hr>
