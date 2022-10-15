@@ -14,5 +14,5 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=afarangurens&theme=radical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=afarangurens&theme=redical">
 </p> 
