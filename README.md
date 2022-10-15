@@ -24,7 +24,7 @@
 
 <hr>
 
-![#f24187](https://placehold.it/15/f24187/000000?My Github stats=+)
+<span style="color:blue">some *blue* text</span>.
 
 <h2 align="center"> My Github stats </h2>
 <p align="center">
