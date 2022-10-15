@@ -10,6 +10,18 @@
 
 <hr>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=Python 3.10"/>
+	<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+	<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Node.js"/>
+	<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+	<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+	<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+	<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=mysql"/>
+	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+	<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
 <hr>
 
 <h2 align="center"> My Github stats </h2>
