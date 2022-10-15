@@ -12,7 +12,7 @@
 
 <h2 align="center"> $\color{#f24187}{Technologies~stack}$ </h2>
 <p align="center">
-	<img src="https://img.shields.io/badge/-Python 3.10-f24187?style=flat-square&logo=python"/>
+	<img src="https://img.shields.io/badge/-Python-f24187?style=flat-square&logo=python"/>
 	<img src="https://img.shields.io/badge/-Django-f24187?style=flat-square&logo=django"/>
 	<img src="https://img.shields.io/badge/-JavaScript-f24187?style=flat-square&logo=javascript"/>
 	<img src="https://img.shields.io/badge/-ReactJS-f24187?style=flat-square&logo=react"/>
