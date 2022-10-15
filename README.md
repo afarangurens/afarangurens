@@ -24,10 +24,10 @@
 
 <hr>
 
-<font color='#f24187'>test blue color font</font>
-$\color{#f24187}{My-Github-stats}$
 
-<h2 align="center"> My Github stats </h2>
+
+
+<h2 align="center"> $\color{#f24187}{My-Github-stats}$ </h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=afarangurens&hide=prs&count_private=true&show_icons=true&theme=radical"> 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afarangurens&langs_count=5&theme=radical&hide=cython">
