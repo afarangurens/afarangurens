@@ -22,6 +22,9 @@
 	<img src="https://img.shields.io/badge/-PostgreSQL-f24187?style=flat-square&logo=postgresql"/>
 	<img src="https://img.shields.io/badge/-Git-f24187?style=flat-square&logo=git"/>
 	<img src="https://img.shields.io/badge/-GitHub-f24187?style=flat-square&logo=github"/>
+	<img src="https://img.shields.io/badge/-Postman-f24187?style=flat-square&logo=postman"/>
+	<img src="https://img.shields.io/badge/-Trello-f24187?style=flat-square&logo=trello"/>
+	<img src="https://img.shields.io/badge/-Slack-f24187?style=flat-square&logo=slack"/>
 </p>
 
 
