@@ -9,4 +9,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afarangurens&langs_count=5&theme=radical">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=afarangurens)](https://github.com/afarangurens/github-profile-trophy)
