@@ -5,6 +5,7 @@
 -->
 <p align="center">
 	<img src="https://github.com/afarangurens/afarangurens/blob/main/Banner/banner.png">
+	<!-- Background image taken from: https://www.artstation.com/artwork/5XeK8z -->
 </p>
 
 <hr>
