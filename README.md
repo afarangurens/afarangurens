@@ -8,7 +8,6 @@
 	<!-- Background image taken from: https://www.artstation.com/artwork/5XeK8z -->
 </p>
 
-<hr>
 
 <h2 align="center"> $\color{#f24187}{Technologies~stack}$ </h2>
 <p align="center">
@@ -25,7 +24,6 @@
 	<img src="https://img.shields.io/badge/-GitHub-f24187?style=flat-square&logo=github"/>
 </p>
 
-<hr>
 
 
 <h2 align="center"> $\color{#f24187}{My~Github~stats}$ </h2>
