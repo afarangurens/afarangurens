@@ -10,8 +10,8 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center"> Contact me </h2>
+<p align="center">
 <a href="mailto: afarangurens@unal.edu.co" target="blank"><img align="center" src="https://img.shields.io/badge/-afarangurens-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afarangurens@unal.edu.co" alt="" height="25" width="130" /></a>
 <a href="https://www.linkedin.com/in/andres-aranguren-silva/" target="blank"><img align="center" src="https://img.shields.io/badge/-afarangurens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-aranguren-silva" alt="" height="25" width="130" /></a>
 </p>
