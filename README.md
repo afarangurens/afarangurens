@@ -36,7 +36,7 @@
 <h2 align="center"> $\color{#f24187}{My~Github~stats}$ </h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=afarangurens&hide=prs&count_private=true&show_icons=true&theme=radical">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afarangurens&langs_count=10&theme=radical&hide=css,powershell,cython,jupyter,html">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afarangurens&langs_count=10&theme=radical&hide=css,powershell,cython,ANTLR,html,vue,Jupyter%20Notebook">
 </p>
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=afarangurens&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
