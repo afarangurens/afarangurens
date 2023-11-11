@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center"> $\color{#f24187}{Technologies~stack}$ </h2>
+<h2 align="center"> Technologies Stack </h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/-Python-f24187?style=flat-square&logo=python"/>
 	<img src="https://img.shields.io/badge/-Django-f24187?style=flat-square&logo=django"/>
@@ -33,7 +33,7 @@
 
 
 
-<h2 align="center"> $\color{#f24187}{My~Github~stats}$ </h2>
+<h2 align="center"> Github Stats </h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=afarangurens&hide=prs&count_private=true&show_icons=true&theme=radical">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afarangurens&langs_count=10&theme=radical&hide=css,powershell,cython,ANTLR,html,vue,Jupyter%20Notebook">
@@ -46,7 +46,7 @@
 </p> 
 
 
-<h2 align="center"> $\color{#f24187}{Contact~me}$ </h2>
+<h2 align="center"> Concact me </h2>
 <p align="center">
 	<a href="mailto: afarangurens@unal.edu.co" target="blank"><img align="center" src="https://img.shields.io/badge/-afarangurens-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afarangurens@unal.edu.co" alt="" height="25" width="125" /></a>
 	<a href="https://www.linkedin.com/in/andres-aranguren-silva/" target="blank"><img align="center" src="https://img.shields.io/badge/-afarangurens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-aranguren-silva" alt="" height="25" width="125" /></a>
